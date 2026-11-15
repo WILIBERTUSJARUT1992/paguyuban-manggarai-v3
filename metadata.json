@@ -1,0 +1,6 @@
+{
+  "name": "Paguyuban Manggarai v3",
+  "description": "Sistem Informasi dan Manajemen Keanggotaan Paguyuban Manggarai v.3 dengan antarmuka bertema Cyber-Hacker modern, lengkap dengan otentikasi login, dashboard analitik, dan manajemen data anggota.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
